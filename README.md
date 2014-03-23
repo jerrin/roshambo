@@ -1,4 +1,2 @@
 roshambo
 ========
-
-TDD an example
